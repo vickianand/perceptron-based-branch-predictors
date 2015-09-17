@@ -1,0 +1,6 @@
+*~
+original_papers/*
+results/*
+*.res
+*.bin
+
